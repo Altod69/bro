@@ -17,7 +17,18 @@
     height:256px;
     background-image: url("../images/instru.jpg");
 }
+
+#ghost {
+    width: 0px;
+}
+
 #redArrow {
+    width:256px;
+    height:256px;
+    background-image: url("../images/RedArrow.png");
+}
+
+.arrow {
     width:256px;
     height:256px;
     background-image: url("../images/RedArrow.png");
